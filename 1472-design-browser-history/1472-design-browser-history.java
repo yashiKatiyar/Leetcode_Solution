@@ -1,41 +1,40 @@
-import java.util.Stack;
-// INITIAL IDEA: USE 2 STCKS
-// curr is more like a pointer
 class BrowserHistory {
-    private Stack<String> backstack;
-    private Stack<String> forwardstack;
-    private String curr;
-//
+    private String[] history;
+    private int curr;
+    private int last;
+
     public BrowserHistory(String homepage) {
-        backstack = new Stack<>();
-        forwardstack = new Stack<>();
-        curr = homepage;
+        history = new String[5001]; // Max 5000 calls as per constraints(given)
+        history[0] = homepage;
+        curr = 0;
+        last = 0;
     }
-// simply adds to backstack; ensures forward is clear
+// elements are added to the array. Therefore, curr and last are updated.
     public void visit(String url) {
-        backstack.push(curr);
-        curr = url;
-        forwardstack = new Stack<>();
+        curr++;
+        history[curr] = url;
+        last = curr; // both are updated
     }
-/* Now here, 
-    every time we go back to prev site we pop elements ahead of it and add to forward stack. 
-    */
+
+    //traversing back in the history 
 
     public String back(int steps) {
-        while (steps > 0 && !backstack.isEmpty()) {
-            forwardstack.push(curr);
-            curr = backstack.pop();
-            steps--;
-        }
-        return curr;
+        //0 because you cannot travel beyond last entry of array ; will throw array out of bound
+        curr = Math.max(0, curr - steps);
+        return history[curr];
     }
-// Similar to back stack we just reverse the operations to each stack. now we are adding to back and removing element from backstack.
+// traversing firward the array
     public String forward(int steps) {
-        while (steps > 0 && !forwardstack.isEmpty()) {
-            backstack.push(curr);  
-            curr = forwardstack.pop();
-            steps--;
-        }
-        return curr;
+        curr = Math.min(last, curr + steps);
+        return history[curr];
     }
 }
+
+
+/**
+ * Your BrowserHistory object will be instantiated and called as such:
+ * BrowserHistory obj = new BrowserHistory(homepage);
+ * obj.visit(url);
+ * String param_2 = obj.back(steps);
+ * String param_3 = obj.forward(steps);
+ */
