@@ -14,8 +14,8 @@ class BrowserHistory {
 // simply adds to backstack; ensures forward is clear
     public void visit(String url) {
         backstack.push(curr);
-        forwardstack.clear();
         curr = url;
+        forwardstack = new Stack<>();
     }
 /* Now here, 
     every time we go back to prev site we pop elements ahead of it and add to forward stack. 
