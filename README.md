@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0283-move-zeroes/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Hash Table
@@ -28,4 +29,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
