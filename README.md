@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0283-move-zeroes](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0283-move-zeroes/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -55,4 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0035-search-insert-position/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
