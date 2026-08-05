@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0066-plus-one/) | Easy |
 | [0283-move-zeroes](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0283-move-zeroes/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0066-plus-one/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
