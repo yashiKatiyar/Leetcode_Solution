@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0070-climbing-stairs/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +67,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
