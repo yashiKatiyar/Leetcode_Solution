@@ -18,11 +18,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0242-valid-anagram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0242-valid-anagram](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0242-valid-anagram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0242-valid-anagram/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
