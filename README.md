@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0066-plus-one/) | Easy |
+| [0169-majority-element](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0283-move-zeroes/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0242-valid-anagram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0242-valid-anagram/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Matrix
@@ -66,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0070-climbing-stairs/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
