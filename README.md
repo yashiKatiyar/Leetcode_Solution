@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0242-valid-anagram/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -106,4 +108,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0412-fizz-buzz/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
