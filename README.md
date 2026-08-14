@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0242-valid-anagram/) | Easy |
+| [0412-fizz-buzz](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0412-fizz-buzz](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0412-fizz-buzz/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0136-single-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/PROSPERITY9/Leetcode_Solution/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
